@@ -5,3 +5,12 @@
 .albums a{
     color: gray;
 }
+
+/* .albums{
+    display: flex;
+}
+
+.albums .col-3{
+    flex-wrap: wrap;
+    min-width: 40%;
+} */
